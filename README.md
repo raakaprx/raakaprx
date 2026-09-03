@@ -34,7 +34,7 @@
   "developer": "Muhammad Raka Pradana",
   "currentRole": "Web Developer @ PT Maxxima Innovative Engineering (2026 – Present)",
   "education": "B.S. Information Systems — Telkom University (GPA: 3.75 / 4.00)",
-  "location": "Bandung / Jakarta, Indonesia (Open to Global Remote)",
+  "location": "Jakarta, Indonesia (Open to Global Remote)",
   "focus": [
     "Enterprise Full-Stack Architecture (React, Next.js, Laravel, Node.js)",
     "Database Modeling & Query Optimization (PostgreSQL, MySQL, Prisma)",
